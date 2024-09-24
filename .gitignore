@@ -1,0 +1,7 @@
+output/*
+input/*
+logs/*
+plugins/*
+dags/__pycache__
+.DS_Store
+.Python_Airflow_Spark
